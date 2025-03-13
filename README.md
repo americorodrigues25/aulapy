@@ -1,3 +1,3 @@
 # aulapy
 
-## Americo Gay
+## Americo Rodrigues
